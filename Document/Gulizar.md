@@ -1,5 +1,7 @@
 # Suivi du projet de Gulizar AGAYEVA
 
+----------------------------------------------------
+
   ## Etapes de notre redirection  
   
 Recherche du projet pendant deux semaines. L'idée retenu : afficher des messages grâce à des LED sur des lunettes.
@@ -65,11 +67,11 @@ Conclusion : obtenir un assez beau rendu
 
 + Préparation du PowerPoint finale :
 
-++ Création de schéma
+* Création de schéma
 
-++ Liste de matériel
+* Liste de matériel
 
-++ Répartition des taches
+* Répartition des taches
 
 ----------------------------------------------------
 ## Mercredi 1 mai
