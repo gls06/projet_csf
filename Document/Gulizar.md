@@ -45,3 +45,34 @@ Conclusion : mieux se répartir les taches et ne pas tout faire ensemble
 Conclusion : découverte des options de message, de défilement, des animations, etc
 
 + Ajout de quelques commentaires au code afin que d'autres puissent aussi le comprendre 
+
+----------------------------------------------------
+## Mardi 23 avril 
+
++ Câblage des fils entre les quatre matrices de LED et la pile
+
++ Obtenir une communication sans fil
+
+------------------------------------------------------
+## Jeudi 24 avril
+
++ Montage des LED et des câbles sur la casquette (couture, stockage, etc)
+
+Conclusion : obtenir un assez beau rendu
+
+---------------------------------------------------
+## Vendredi 25 avril 
+
++ Préparation du PowerPoint finale :
+
+++ Création de schéma
+
+++ Liste de matériel
+
+++ Répartition des taches
+
+----------------------------------------------------
+## Mercredi 1 mai
+
++ Présentation du projet finale 
+
