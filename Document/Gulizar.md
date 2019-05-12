@@ -17,3 +17,31 @@ Conclusion : problème car certaines LED ne s'allumaient pas, elles ne changaien
 Conclusion : très gros problème de visibilité par celui qui porte les lunettes mais le résultat attendu était là (par rapport aux messages, au défilement, aux différentes couleurs, etc)
 
 + Opter pour autre chose que des lunettes (finalement choix d'une casquette mais ça aurait très bien pu être un t-shirt, un bonnet ou autre)
+
+----------------------------------------------------
+
+## Vendredi 5 avril
+
++ Préparation du PowerPoint 'Light Glasses' 
+
+Conclusion : objectifs un peu trop amibitieux, revoir quelques points du projet
+
++ Modification du choix de la connexion 
+
+Conclusion : nous avions fait le choix d'une connexion Bluetooth, cependant la connexion LoRa est plus adapté à ce projet 
+
+---------------------------------------------------
+## Lundi 15 avril
+
++ Présentation du PowerPoint en groupe 
+
+Conclusion : mieux se répartir les taches et ne pas tout faire ensemble
+
+---------------------------------------------------
+## Lundi 22 avril
+
++ Utilisation du Code Arduino qui permet de contrôler les matrices de LED
+
+Conclusion : découverte des options de message, de défilement, des animations, etc
+
++ Ajout de quelques commentaires au code afin que d'autres puissent aussi le comprendre 
