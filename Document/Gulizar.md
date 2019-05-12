@@ -1,5 +1,7 @@
 # Suivi du projet de Gulizar AGAYEVA
 
+> Trinôme avec AFSHARI Logan et RAFFALLI Sabrina
+
   ## Etapes de notre redirection  
   
 Recherche du projet pendant deux semaines. L'idée retenu : afficher des messages grâce à des LED sur des lunettes.
