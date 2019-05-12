@@ -1,1 +1,1 @@
-Le CapDuino est une casquette transmettat des messafes visibles par les personnes autour de nous. L'utilisateur choisit le message qu'il veut faire passer en choisissant la vitesse de défilement du texte. Ce message défile ensuite sur la casquette grâce à des LED.
+Le CapDuino est une casquette transmettat des messages visibles par les personnes autour de nous. L'utilisateur choisit le message qu'il veut faire passer en choisissant la vitesse de défilement du texte. Ce message défile ensuite sur la casquette grâce à des LED.
