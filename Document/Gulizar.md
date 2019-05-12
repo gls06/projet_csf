@@ -1,7 +1,5 @@
 # Suivi du projet de Gulizar AGAYEVA
 
-_____________________________
-
   ## Etapes de notre redirection  
   
 Recherche du projet pendant deux semaines. L'idée retenu : afficher des messages grâce à des LED sur des lunettes.
